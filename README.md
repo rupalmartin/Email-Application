@@ -1,10 +1,10 @@
 # Email-Application
 
 
-Scenario: You are an IT Support Administrator Specialist and are
+## Scenario: You are an IT Support Administrator Specialist and are
 charged with the task of creating email accounts for new hires.
 
-Your application should do the following:
+### The application has the following features:
 
 * Generate an email with the following syntax: firstname.lastname@department.company.com
 * Determine the department (sales, development, accounting), if none leave blank
